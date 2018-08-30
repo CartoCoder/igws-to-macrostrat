@@ -1,0 +1,10 @@
+name: MtBaldy-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pathlib
+  - matplotlib
+  - pprint
