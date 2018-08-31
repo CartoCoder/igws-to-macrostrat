@@ -1,4 +1,4 @@
-name: MtBaldy-environment
+name: Macrostrat-environment
 channels:
   - conda-forge
 dependencies:
